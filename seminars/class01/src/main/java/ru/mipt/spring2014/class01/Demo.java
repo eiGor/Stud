@@ -8,7 +8,7 @@ public class Demo
 {
 	public static void main (String[] args)
 	{
-		System.out.println ("ComplextNumber class demo");
+		System.out.println ("Making some test changes");
 
 		ComplexNumber c1 = new ComplexNumber (5, 3), c2 = new ComplexNumber (2, -1);
 
